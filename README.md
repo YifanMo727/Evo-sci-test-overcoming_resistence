@@ -27,7 +27,7 @@ EvoSci installation and usage:
 
 The experiment starts from a **single prompt**:
 
-![Prompt](Evo-sci-test-overcoming_resistence/assets/prompt.png)
+![Prompt](./assets/prompt.png)
 
 ---
 
@@ -35,7 +35,7 @@ The experiment starts from a **single prompt**:
 
 The agent then runs autonomously:
 
-![Agent Interface](Evo-sci-test-overcoming_resistence/assets/figure1.png)
+![Agent Interface](./assets/figure1.png)
 
 From this process:
 
