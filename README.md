@@ -17,7 +17,7 @@ Specifically, I asked EvoSci to study:
 ## 2. Setup  
 
 EvoSci installation and usage:  
-👉 https://github.com/evo-science/evo-sci  
+👉 https://github.com/EvoScientist/EvoScientist
 
 ---
 
