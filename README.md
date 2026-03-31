@@ -35,7 +35,7 @@ The experiment starts from a **single prompt**:
 
 The agent then runs autonomously:
 
-![Agent Interface](./assets/figure1.png)
+<img src="assets/figure1.png" width="500"/>
 
 From this process:
 
