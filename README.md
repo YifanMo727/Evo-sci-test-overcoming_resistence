@@ -27,7 +27,7 @@ EvoSci installation and usage:
 
 The experiment starts from a **single prompt**:
 
-![Prompt](assets/prompt.png)
+<img src="assets/prompt.png" width="500"/>
 
 ---
 
