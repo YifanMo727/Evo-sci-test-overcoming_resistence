@@ -27,7 +27,7 @@ EvoSci installation and usage:
 
 The experiment starts from a **single prompt**:
 
-![Prompt](./assets/prompt.png)
+![Prompt](https://raw.githubusercontent.com/YifanMo727/Evo-sci-test-overcoming_resistence/main/assets/prompt.png)
 
 ---
 
