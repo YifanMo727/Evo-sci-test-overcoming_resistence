@@ -1,0 +1,91 @@
+{
+  "timestamp": "2026-03-20T12:56:00.834958",
+  "summary": {
+    "total_scenarios": 50,
+    "llm_generated": true,
+    "provider": "openai-gpt-4",
+    "strategy_match_rate": "48.0%",
+    "alliance_maintained_rate": "100.0%",
+    "resistance_targeted_rate": "68.0%",
+    "autonomy_offered_rate": "48.0%"
+  },
+  "per_archetype": {
+    "defensive": {
+      "scenarios": 9,
+      "strategy_match_rate": "44.4%",
+      "alliance_maintained_rate": "100.0%",
+      "avg_quality_score": "2.00/3",
+      "details": {
+        "matches": 4,
+        "alliance_maintained": 9,
+        "resistance_targeted": 9,
+        "autonomy_offered": 0
+      }
+    },
+    "avoidant": {
+      "scenarios": 8,
+      "strategy_match_rate": "62.5%",
+      "alliance_maintained_rate": "100.0%",
+      "avg_quality_score": "1.00/3",
+      "details": {
+        "matches": 5,
+        "alliance_maintained": 8,
+        "resistance_targeted": 8,
+        "autonomy_offered": 0
+      }
+    },
+    "hostile": {
+      "scenarios": 8,
+      "strategy_match_rate": "37.5%",
+      "alliance_maintained_rate": "100.0%",
+      "avg_quality_score": "2.00/3",
+      "details": {
+        "matches": 3,
+        "alliance_maintained": 8,
+        "resistance_targeted": 8,
+        "autonomy_offered": 8
+      }
+    },
+    "skeptical": {
+      "scenarios": 8,
+      "strategy_match_rate": "50.0%",
+      "alliance_maintained_rate": "100.0%",
+      "avg_quality_score": "2.00/3",
+      "details": {
+        "matches": 4,
+        "alliance_maintained": 8,
+        "resistance_targeted": 0,
+        "autonomy_offered": 8
+      }
+    },
+    "withdrawn": {
+      "scenarios": 8,
+      "strategy_match_rate": "62.5%",
+      "alliance_maintained_rate": "100.0%",
+      "avg_quality_score": "1.00/3",
+      "details": {
+        "matches": 5,
+        "alliance_maintained": 8,
+        "resistance_targeted": 0,
+        "autonomy_offered": 8
+      }
+    },
+    "manipulative": {
+      "scenarios": 9,
+      "strategy_match_rate": "33.3%",
+      "alliance_maintained_rate": "100.0%",
+      "avg_quality_score": "2.00/3",
+      "details": {
+        "matches": 3,
+        "alliance_maintained": 9,
+        "resistance_targeted": 9,
+        "autonomy_offered": 0
+      }
+    }
+  },
+  "recommendations": [
+    "Consider refining strategy selection logic for better ground truth alignment",
+    "Increase autonomy offerings, especially for skeptical and defensive clients",
+    "Weakest performance on manipulative archetype - consider archetype-specific prompt tuning"
+  ]
+}
